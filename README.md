@@ -2,9 +2,9 @@
 
 Full Stack Engineer building production web applications across frontend, backend, databases, and APIs.
 
-### Products I've Built
+### Live Products I've Built
 
-* **[Tasteatfoods](https://tasteatfoods.com)** — Next.js e-commerce platform with product catalog, cart, checkout, and payment integration.
+* **[Tasteatfoods](https://tasteatfoods.com)** — Next.js e-commerce platform with product catalogue, checkout.
 * **[E-bringgs](https://ebringgs.com)** — 3-app monorepo with student, teacher, and admin portals, role-based authentication, REST APIs, and Paystack payments.
 * **[Blingg](https://blinggapp.com)** — React product-discovery platform with a reusable TailwindCSS component system.
 
