@@ -1,34 +1,39 @@
-# Hi, I'm Emmanuel Ebri
+<img src="assets/banner.svg" alt="Emmanuel Ebri — Full Stack Engineer" width="100%">
 
-Full Stack Engineer building production web applications across frontend, backend, databases, and APIs.
+I build production web applications end to end: interfaces, APIs, databases, auth, and payments. Three of them are live and taking real users below.
 
-### Live Products I've Built
+## Shipped
 
-* **[Tasteatfoods](https://tasteatfoods.com)** — Next.js e-commerce platform with product catalogue, checkout.
-* **[E-bringgs](https://ebringgs.com)** — 3-app monorepo with student, teacher, and admin portals, role-based authentication, REST APIs, and Paystack payments.
-* **[Blingg](https://blinggapp.com)** — React product-discovery platform with a reusable TailwindCSS component system.
+| Product | What it is | Built with |
+| :-- | :-- | :-- |
+| **[Tasteatfoods](https://tasteatfoods.com)** | Food e-commerce storefront with product catalogue and checkout | Next.js |
+| **[E-bringgs](https://ebringgs.com)** | Education platform: a 3-app monorepo with student, teacher, and admin portals, role-based auth, and REST APIs | Next.js · Node.js · Paystack |
+| **[Blingg](https://blinggapp.com)** | Product-discovery platform built on a reusable component system | React · TailwindCSS |
 
-### Core Stack
+## Core stack
 
-**Frontend:** React, Next.js, JavaScript, TypeScript, React Native, TailwindCSS
-**Backend:** Node.js, Express.js, Python, REST APIs, GraphQL
-**Databases:** PostgreSQL, MongoDB
-**State & Data:** Redux Toolkit, Zustand, RTK Query, Context API
-**Auth & Payments:** JWT, Paystack
-**Testing & Delivery:** Jest, React Testing Library, Vitest, Git, GitHub, Vercel
+<img src="assets/stack.svg" alt="Core stack: frontend, backend, databases, state and data, auth and payments, testing and delivery" width="100%">
 
-### What I Work On
+<details>
+<summary>Same list as text</summary>
 
-* Full-stack web applications
-* REST APIs and backend services
-* Authentication and role-based authorization
-* Database design and integration
-* Payment workflows
-* Reusable frontend architecture
-* Responsive interfaces from Figma designs
+| Layer | Tools |
+| :-- | :-- |
+| Frontend | React, Next.js, TypeScript, JavaScript, React Native, TailwindCSS |
+| Backend | Node.js, Express.js, Python, REST APIs, GraphQL |
+| Databases | PostgreSQL, MongoDB |
+| State & data | Redux Toolkit, Zustand, RTK Query, Context API |
+| Auth & payments | JWT, Paystack |
+| Testing & delivery | Jest, React Testing Library, Vitest, Git, Vercel |
 
-### Currently
+</details>
 
-Building and contributing to products across healthcare, e-commerce, education, and other web-based platforms.
+## What I'm good at
 
-**Available for:** Full-stack engineering roles and selected client projects.
+Designing a schema that survives contact with real data. Wiring role-based authorization that does not leak across portals. Getting a payment flow to behave when the network drops halfway through. Turning a Figma file into an interface that holds up on a cheap Android phone. Building component systems the next developer can actually reuse.
+
+## Now
+
+Building across healthcare, e-commerce, and education. Open to full-stack engineering roles and selected client work.
+
+**[Email](mailto:your@email.com)** · **[LinkedIn](https://linkedin.com/in/your-handle)** · **[Portfolio](https://your-site.com)**
