@@ -54,4 +54,4 @@ Building component systems the next developer can actually reuse.
 Building across healthcare, e-commerce, and education. Open to full-stack engineering roles and
 selected client work.
 
-**[Portfolio](https://www.emmanuelebri.dev)** · **[LinkedIn](https://linkedin.com/in/YOUR-HANDLE)** · **[Email](mailto:YOU@emmanuelebri.dev)**
+**[Portfolio](https://www.emmanuelebri.dev)** · **[LinkedIn](https://www.linkedin.com/in/emmanuel-ebri-9183a6243/)** · **[Email](mailto:emmanuel@emmanuelebri.dev)**
