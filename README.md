@@ -11,6 +11,7 @@ Currently at Toac Technologies, working on the TOAC telehealth platform. Previou
 | [E-bringgs](https://ebringgs.com) | Education platform: a 3-app monorepo with student, teacher and admin portals, role-based auth and REST APIs | Next.js, Node.js, Paystack |
 | [Tasteatfoods](https://tasteatfoods.com) | Online menu for a Nigerian food business in Abuja, with ordering through WhatsApp | Next.js, TypeScript |
 | [Blingg](https://blinggapp.com) | Product-discovery platform: public site plus six staff consoles in one pnpm monorepo | React, React Router, Vite, Tailwind CSS |
+| [EverThrive](https://www.everthrive.live) | Digital product store selling practical guides, planners and trackers for career, money, health and relationships, with instant downloads | Next.js |
 
 ## Featured code
 
